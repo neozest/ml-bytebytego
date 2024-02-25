@@ -10,7 +10,7 @@ https://insightbookblog.files.wordpress.com/2024/02/1-2-eba8b8ec8ba0eb9faceb8b9d
 * 출판사의 책 소개: https://blog.insightbook.co.kr/2024/02/15/%e3%80%8a%ea%b0%80%ec%83%81-%eb%a9%b4%ec%a0%91-%ec%82%ac%eb%a1%80%eb%a1%9c-%eb%b0%b0%ec%9a%b0%eb%8a%94-%eb%a8%b8%ec%8b%a0%eb%9f%ac%eb%8b%9d-%ec%8b%9c%ec%8a%a4%ed%85%9c-%ec%84%a4%ea%b3%84-%ea%b8%b0/
 ---
 
-## Chapter 1: Introduction and Overview
+##  1장 : 소개 및 개요
 
 [1] Data warehouse. https://cloud.google.com/learn/what-is-a-data-warehouse.  
 [2] Structured vs. unstructured data. https://signal.onepointltd.com/post/102gjab/machine-learning-libraries-for-tabular-data-problems.  
@@ -46,6 +46,8 @@ https://insightbookblog.files.wordpress.com/2024/02/1-2-eba8b8ec8ba0eb9faceb8b9d
 [32] FID score. https://en.wikipedia.org/wiki/Fr%C3%A9chet_inception_distance.  
 [33] Inception score. https://en.wikipedia.org/wiki/Inception_score.  
 [34] BLEU metrics. https://en.wikipedia.org/wiki/BLEU.  
+  [34.1] BLUE Score: https://wikidocs.net/31695 (KR)
+  [34.2] BLUE의 모든 것: https://hulk89.github.io/neural%20machine%20translation/2017/06/05/BLEU/ (KR)
 [35] METEOR metrics. https://en.wikipedia.org/wiki/METEOR.  
 [36] ROUGE score. https://en.wikipedia.org/wiki/ROUGE_(metric).  
 [37] CIDEr score. https://arxiv.org/pdf/1411.5726.pdf.  
