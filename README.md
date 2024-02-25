@@ -1,4 +1,14 @@
-# Reference Materials for System Design Interview
+# 가상면접 사례로 배우는 머신러닝 시스템 설계 기초 참고 자료
+
+https://insightbookblog.files.wordpress.com/2024/02/1-2-eba8b8ec8ba0eb9faceb8b9d-ed919ceca780ec959e.jpg?w=2044
+
+---
+**NOTE**
+
+* 인사이트에서 출간된 책을 읽어가면서 참고 자료를 모으고 정리하는 페이지입니다.
+* 기본적으로 원서 출판사의 참고 자료 링크를 기준으로 삼았고, 공부하면서 한글 관련 자료의 링크를 모을 생각입니다.
+* 출판사의 책 소개: https://blog.insightbook.co.kr/2024/02/15/%e3%80%8a%ea%b0%80%ec%83%81-%eb%a9%b4%ec%a0%91-%ec%82%ac%eb%a1%80%eb%a1%9c-%eb%b0%b0%ec%9a%b0%eb%8a%94-%eb%a8%b8%ec%8b%a0%eb%9f%ac%eb%8b%9d-%ec%8b%9c%ec%8a%a4%ed%85%9c-%ec%84%a4%ea%b3%84-%ea%b8%b0/
+---
 
 ## Chapter 1: Introduction and Overview
 
