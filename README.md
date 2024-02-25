@@ -1,6 +1,5 @@
 # 가상면접 사례로 배우는 머신러닝 시스템 설계 기초 참고 자료
 
-https://insightbookblog.files.wordpress.com/2024/02/1-2-eba8b8ec8ba0eb9faceb8b9d-ed919ceca780ec959e.jpg?w=2044
 
 ---
 **NOTE**
@@ -13,11 +12,11 @@ https://insightbookblog.files.wordpress.com/2024/02/1-2-eba8b8ec8ba0eb9faceb8b9d
 ##  1장 : 소개 및 개요
 
 [1] Data warehouse. https://cloud.google.com/learn/what-is-a-data-warehouse.  
-  [1.1] (GOOGLE) 데이터 웨어하우스란? https://cloud.google.com/learn/what-is-a-data-warehouse?hl=ko (KR) 원 참조문서의 번역본.
-  [1.2] (AMAZON) 데이터 웨어하우스란 무엇입니까? https://aws.amazon.com/ko/what-is/data-warehouse/ (KR)
-  [1.3] (SAP) 데이터 웨어하우스란? https://www.sap.com/korea/products/technology-platform/datasphere/what-is-a-data-warehouse.html (KR)
-  [1.4] (IBM) 데이터 웨어하우스란?  https://www.ibm.com/kr-ko/topics/data-warehouse (KR)
-  [1.5] (ORACLE) 데이터 웨어하우스란? https://www.oracle.com/kr/database/what-is-a-data-warehouse/ (KR)
+  * [1.1] (GOOGLE) 데이터 웨어하우스란? https://cloud.google.com/learn/what-is-a-data-warehouse?hl=ko (KR) 원 참조문서의 번역본.
+  * [1.2] (AMAZON) 데이터 웨어하우스란 무엇입니까? https://aws.amazon.com/ko/what-is/data-warehouse/ (KR)
+  * [1.3] (SAP) 데이터 웨어하우스란? https://www.sap.com/korea/products/technology-platform/datasphere/what-is-a-data-warehouse.html (KR)
+  * [1.4] (IBM) 데이터 웨어하우스란?  https://www.ibm.com/kr-ko/topics/data-warehouse (KR)
+  *  [1.5] (ORACLE) 데이터 웨어하우스란? https://www.oracle.com/kr/database/what-is-a-data-warehouse/ (KR)
   
 [2] Structured vs. unstructured data. https://signal.onepointltd.com/post/102gjab/machine-learning-libraries-for-tabular-data-problems.  
 [3] Bagging technique in ensemble learning. https://en.wikipedia.org/wiki/Bootstrap_aggregating.  
